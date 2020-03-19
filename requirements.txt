@@ -1,0 +1,6 @@
+xlrd
+numpy
+csv
+urllib
+datetime
+pathlib
